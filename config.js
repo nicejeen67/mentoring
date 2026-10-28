@@ -6,5 +6,4 @@ window.MENTORING_CONFIG = {
   SUPABASE_URL: "https://kkaujdvqcbuhcztryhuq.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_SvW6XplT3y2X4UbvsB5fNA_o3JPjTpD",
   // 상단 [AI EXAM] 버튼이 이동할 주소 (AI EXAM 사이트 주소로 바꾸세요)
-  AIEXAM_URL: "https://nicejeen67.github.io/AI-EXAM-저장소이름/"
-};
+  AIEXAM_URL: ""};
